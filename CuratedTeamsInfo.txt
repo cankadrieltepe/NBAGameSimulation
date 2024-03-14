@@ -1,0 +1,192 @@
+Team: Team12
+T.J. McConnell
+Bobby Portis
+Xavier Moon
+Patrick Baldwin Jr.
+Neemias Queta
+Christian Braun
+Paolo Banchero
+Nathan Knight
+Tari Eason
+Jalen Brunson
+
+Team: Team9
+John Wall
+Grant Williams
+Eric Gordon
+Yuta Watanabe
+Bismack Biyombo
+Nerlens Noel
+Victor Oladipo
+Goga Bitadze
+Jaden Springer
+Payton Pritchard
+
+Team: Team3
+Frank Jackson
+T.J. Warren
+Jalen Green
+Svi Mykhailiuk
+Omer Yurtseven
+Julian Champagnie
+Bones Hyland
+DeMar DeRozan
+Moussa Diabaté
+Kemba Walker
+
+Team: Team4
+Jose Alvarado
+Kevin Durant
+Tyrese Maxey
+Eugene Omoruyi
+Marko Simonovic
+Trey Murphy III
+Anthony Edwards
+Jerami Grant
+Carlik Jones
+Noah Vonleh
+
+Team: Team2
+Kyle Lowry
+Rudy Gay
+Bradley Beal
+Naji Marshall
+Isaiah Jackson
+Lester Quinones
+Trendon Watford
+Jaren Jackson Jr.
+Damian Lillard
+Jalen Smith
+
+Team: Team1
+Cade Cunningham
+Alize Johnson
+Tyrese Maxey
+Juan Toscano-Anderson
+Andre Drummond
+Jay Huff
+Jalen Williams
+Moses Brown
+Jabari Walker
+Donovan Mitchell
+
+Team: Team7
+Cameron Payne
+Sam Hauser
+Rodney McGruder
+Jae Crowder
+JaVale McGee
+Leandro Bolmaro
+Leandro Bolmaro
+Tyrese Haliburton
+Serge Ibaka
+Cade Cunningham
+
+Team: Team15
+D'Angelo Russell
+John Collins
+Bogdan Bogdanovi?
+Dillon Brooks
+Naz Reid
+Chris Duarte
+Desmond Bane
+Tobias Harris
+Bol Bol
+Tre Jones
+
+Team: Team5
+Frank Jackson
+Kenrich Williams
+Tyler Dorsey
+Jack White
+Frank Kaminsky
+Amir Coffey
+Garrison Mathews
+Kendrick Nunn
+Isaiah Mobley
+Mitchell Robinson
+
+Team: Team14
+Chris Paul
+Usman Garuba
+Josh Giddey
+Andrew Wiggins
+Mason Plumlee
+Mo Bamba
+James Harden
+Isaiah Mobley
+Doug McDermott
+Jordan Hall
+
+Team: Team6
+Ish Smith
+Isaiah Roby
+Victor Oladipo
+Brandon Ingram
+Nick Richards
+Terance Mann
+Otto Porter Jr.
+Anthony Edwards
+Malachi Flynn
+Ricky Rubio
+
+Team: Team13
+Jason Preston
+Cameron Johnson
+Trevelin Queen
+Cedi Osman
+Jonas Valan?i?nas
+Jordan Goodwin
+Alex Caruso
+Ivica Zubac
+JD Davison
+Tyler Herro
+
+Team: Team11
+Lindell Wigginton
+Nathan Knight
+Jeenathan Williams
+Dillon Brooks
+Daniel Theis
+Vlatko ?an?ar
+Nikola Vu?evi?
+Buddy Hield
+Luke Kornet
+David Duke Jr.
+
+Team: Team8
+Russell Westbrook
+Zeke Nnaji
+Blake Wesley
+Joe Wieskamp
+Gorgui Dieng
+Isaac Okoro
+Tyrese Haliburton
+Talen Horton-Tucker
+Tre Jones
+Seth Curry
+
+Team: Team10
+Cole Anthony
+Isaiah Todd
+Deonte Burton
+Jordan Hall
+John Butler
+Killian Hayes
+Joshua Primo
+Ryan Rollins
+Jakob Poeltl
+Kyrie Irving
+
+Team: UserTeam
+Precious Achiuwa
+Steven Adams
+Bam Adebayo
+Ochai Agbaji
+Santi Aldama
+Nickeil Alexander-Walker
+Grayson Allen
+Jarrett Allen
+Jose Alvarado
+Kyle Anderson
+
